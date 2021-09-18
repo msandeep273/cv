@@ -5,10 +5,11 @@
 JAVA, KOTLIN, C,  HTML, CSS, JavaScript, Jquery, PHP, MySQL
 
 #### ANDROID EXPERTISE
-* JETPACK - Room, Navigation 
+* JETPACK Libraries - Room, Navigation 
 * Services
 * Broadcast receivers
 * Scheduling alarms
+* **Kotlin Coroutines**
 * **FIREBASE**
 * **Google Maps Api**
 * **RESTful APIs**
@@ -25,13 +26,13 @@ JAVA, KOTLIN, C,  HTML, CSS, JavaScript, Jquery, PHP, MySQL
 * Retrofit for Client Server Communication.
 * Paytm Payment Gateway Integration.
 
-HOME PAGE | PRODUCTS | ORDER DETAILS - DAILY 
+HOME PAGE | PRODUCTS | REPEATING ORDERS 
 ------------ | ------------- | ------------- 
-![DAILY DELIVERY APP](Daily-Delivery/App/1.jpg)  | ![DAILY DELIVERY APP](Daily-Delivery/App/2.jpg)|![DAILY DELIVERY APP](Daily-Delivery/App/3.jpg)
+![DAILY DELIVERY APP](Daily-Delivery/App/1.jpg)  | ![DAILY DELIVERY APP](Daily-Delivery/App/2.jpg)|![DAILY DELIVERY APP](Daily-Delivery/App/6.jpg)
 
-ORDER DETAILS - ALTERNATE | ORDER DETAILS - MONTHLY | REPEATING ORDERS
+ORDER DETAILS | ORDER DETAILS | ORDER DETAILS
 ------------ | ------------- | -------------
-![DAILY DELIVERY APP](Daily-Delivery/App/4.jpg) |  ![DAILY DELIVERY APP](Daily-Delivery/App/5.jpg)  | ![DAILY DELIVERY APP](Daily-Delivery/App/6.jpg)
+![DAILY DELIVERY APP](Daily-Delivery/App/4.jpg) |  ![DAILY DELIVERY APP](Daily-Delivery/App/5.jpg)  | ![DAILY DELIVERY APP](Daily-Delivery/App/3.jpg)
 
  VACATIONS | MY ORDERS 
 ------------ | -------------
